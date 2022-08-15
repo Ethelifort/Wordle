@@ -58,3 +58,7 @@ h1{
     cursor: pointer;
     text-transform: uppercase;
   }
+
+  body{
+    background-color: rgb(204, 180, 180);
+  }
